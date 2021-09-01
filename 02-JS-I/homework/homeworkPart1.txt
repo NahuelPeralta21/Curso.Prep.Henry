@@ -1,0 +1,68 @@
+VARIABLE:
+
+Una variable podriamos representarla como un "vaso", definiendola mejor como un recipiente,
+y lo que seria el agua adentro del vaso seria el contenido. Sin embargo sabemos que un vaso puede contener
+mas cosas que solo agua, por ejemplo, lapices, papeles, gomas, etc.
+
+A lo que va esto es que una variable seria un "vaso" que contiene datos, de un solo tipo (solo lapices, solo papeles) 
+o varios (sea lapices y paples al mismo tiempo).
+Pero en vez de contener lapices y papeles son 3 tipos de datos:
+
+1. De tipo texto: llamados Strings que se escriben entre comillas(sea simples o comunes)
+    ejemplo_ "esto es un ejemplo de Strings"
+
+2. De tipo numericas: contienen numeros, que se escriben sin comillas
+    ejemplo_ 2021
+
+3. De tipo booleanos: esto es basicamente un dato que sea verdadero o falso (se escriben en ingles)
+    ejemplo_ true
+
+Las variables son utiles para por ejemplo ordenar datos, llamarlo o para ser utilizados en alguna funcion
+
+Se escriben de la siguiente manera: 
+    primero definimos la variable, y luego le asignamos un valor :
+     Var [nombre de la variable] = [valor de la variable]
+        ejemplo1_  var num=5           (esto es un ejempo de variable tipo numerica)
+        ejemplo2_  var nombre="juan"   (esto es un ejempo de variable tipo texto)
+
+----------------------------------------------------------------------------------------------
+STRINGS:
+
+Son valores tipo texto que se le puden asignar a las variables.
+son los que van entre comillas
+
+Estos valores son de tipo texto, pero no implica  que solo pueda ser texto sino que 
+son caracteres, digo esto porque puede contener numeros, 
+...mientras este entre comillas
+    ejemplo1_ "mi nombre es nahuel y tengo 22 años"
+    ejemplo2_ "274165"
+
+----------------------------------------------------------------------------------------------
+FUNCIONES (ARGUMENTOS, RETURN):
+
+Una funcion seria un conjunto de datos que responden o son llamados con el nombre asignado,
+esto nos facilita porque no es necesario escribir varias veces lo mismo, sino que llamando
+a la funcion por su nombre aparecera el texto introducido en la funcion.
+Ademas se pueden realizar acciones en una funcion no solo llamarla, ejemplo pedirle que realize una suma, resta, division, etc.
+
+esto de pedirle que realize una accion se hace dandole argumentos a la funcion.
+Estos argumentos son variables que al momento de llamar a la funcion le damos el valor que deseamos para que 
+aparezca o realize una accion dentro de la funcion.
+
+El return es para que la funcion no retorne o mejor dicho nos devuelva la accion que le pedimos al llamar esa funcion.
+
+----------------------------------------------------------------------------------------------
+DECLARACIONES IF
+
+El if Seria darle al ordenador un razonamiento logico en el que si se cumple la accion nos devuelva una cosa y si 
+no lo es nos devuelva otro valor.
+
+Es digamos un razonamiento logico si, ocurre esto, entonces hace esto y sino hace esto otro.
+
+----------------------------------------------------------------------------------------------
+VALORES BOLEANOS
+
+
+Son valores que representan verdadero o falso,
+es como decirle a la computadora que se apague o se prenda,
+tambien representan los 1 y 0 del sistema binario.

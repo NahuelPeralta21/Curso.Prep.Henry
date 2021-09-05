@@ -1,0 +1,29 @@
+FOR:
+
+Es un bucle, en el que se va estar ejecutando las veces que le digamos, va recorriendo la cantidad de numeros establecida
+es decir, nosotros decidimos la cantidad de repeticiones que queremos realizar.
+Esa seria la diferencia que tiene con el while, donde en el while la accion que queremos que se repita
+va ocurrir mientras que la condicion que le pongamos sea verdadera.
+La sintaxis seria primero utilizar la palabra for (esta reservada), y luego entre parentesis
+se crea una variable, ejemplo "i", (exiaste solamente dentro del bucle),
+a esta variable le asignamos un valor inicial y luego separando con punto y coma,
+le damos una condicion a esa variable, en la que se ejectue hasta que le digamos, y por ultimo
+separando con ; le de decimos de a cuanto esa funcion va ir incrementando.
+Una vez definida la sentencia, entre corchetes va ir lo que deseamos que se repita hasta donde hallamos decidio en la sentencia. 
+-----------------------------------------------------------------
+`&&`, `||`, `!`:
+
+Son operadores logicos en los que son utilizados para conetar, evaluar expressiones, variables y declaraciones entre mas cosas.
+El "&&" es el AND,
+el "||" es el OR,
+el "!" es el NOT,
+
+el primero conecta, siendo verdadero uno y el otro tambien,
+el segundo separa, es decir, donde una condicion puede ser verdad y la otra no tiene porque serlo,
+y el ultimo es negacion, donde va devolver el valor opuesto.
+
+ 
+
+
+
+

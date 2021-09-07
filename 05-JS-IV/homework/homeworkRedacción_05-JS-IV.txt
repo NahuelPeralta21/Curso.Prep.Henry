@@ -1,0 +1,27 @@
+  * Objetos
+Un objeto seria un espacio, como una caja donde se pueden guardar datos, asi comosi fuera una variable, o a un mas parecido
+como si fuera un array, la diferencia con este ultimo es que en vez de ser una lista ordenada es una lista desordenada,
+porque a la hora de llamar estos datos no es relevante el orden, porque se llaman directamente con el nombre.
+Al escribirlo se define el nombre del objeto luego signo de igual, y se abren corchetes,
+allí dentro va ir primero la palabra clave (Keyword) luego separado entre dos puntos el valor asignado a esa palabra clave.
+Asi como dentro de un array, podian ir valores, funciones y otros array, el objeto puede contener, valores, arrays y ademas tambien objetos.
+
+
+  * Propiedades
+Asi como literalemnte cualquier objeto en 3Dimensiones tiene propiedades, un objeto en JavaScript son el contenido definido
+dentro del objeto, serian las palabras claves con sus respectivos valores.
+
+
+  * Métodos
+Diria que los metodos son las funciones que realizamos tomando las propiedades como base.
+
+
+  * Bucle `for…in`
+Es muy similar al bucle simplemente for, podes recorrer un array o un objeto, 
+pero en vez de ir reccoriendo por indice recorres solamente entero un array o objeto especifico.
+
+
+  * Notación de puntos vs notación de corchetes
+Los dos son maneras de llamar a una propiedad que se encuentra dentro de un arreglo.
+notacion de puntos es agergar un punto entre el nombre del objeto y la propiedad a ver,
+y la otra es luego de del nombre del objeto va parentesis rectos y entre comillas la propiedad.

@@ -1,0 +1,4 @@
+Un array es como una variable en la que se almacenan datos, con la diferencia que, con un mismo nombre de indice pueden
+incluir varias variables y hasta de diferente tipo, (de tipo texto, numericas y boleanos).
+Lo mas comun podria ser almacenar varios datos del mismo tipo, ejemplo,
+el conjunto de nombre de alumnos de una clase.

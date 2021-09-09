@@ -217,12 +217,12 @@ function tablaDelSeis(){
   //Escribe tu código aquí:
   var arrayTablaDel6 = []; 
 
-  for (i=0; i<=60; i+6){
-    arrayTablaDel6.push(i);
-
-    return arrayTablaDel6
+  for (var i=0; i<=10; i++){
+    arrayTablaDel6.push(i*6);
+    
   }
- 
+  return arrayTablaDel6;
+
 }
 
 function tieneTresDigitos(numero){
@@ -241,10 +241,10 @@ function doWhile(numero) {
   //Retornar el valor final.
   //Usar el bucle do ... while.
   var aumentadoValor=numero
-  var i=0
+  var i =0
   do {
     aumentadoValor=aumentadoValor +5
-    i=i +1
+    i ++
   } while (i<8);
   return aumentadoValor
 }
